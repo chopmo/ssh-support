@@ -13,11 +13,15 @@ This project still needs a lot of polish, but the very basics are working.
 Usage
 -----
 Server side (this workstation of the person you want to help): 
-`./run.sh server tunnel.example.com tunnel-user supportee-username`
+```
+./run.sh server tunnel.example.com tunnel-user supportee-username
+```
 
 
 Client side (your workstation): 
-`./run.sh client tunnel.example.com tunnel-user supportee-username`
+```
+./run.sh client tunnel.example.com tunnel-user supportee-username
+```
 
 
 TODOs
